@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Me-Ai
+description: An AI-powered personal assistant
+google_analytics:
+show_downloads: true
