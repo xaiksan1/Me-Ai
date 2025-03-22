@@ -1,0 +1,9 @@
+# Python dependencies
+flask
+PyQt6
+requests
+sqlalchemy
+pytest
+black
+flake8
+mypy
